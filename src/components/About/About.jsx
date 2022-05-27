@@ -40,7 +40,7 @@ const About = () => {
           </div>
 
           <p>
-            Lorem ipsum dolor sit amet consectetur, adipisicing elit. Molestiae, sequi velit atque labore laboriosam exercitationem amet nesciunt et provident, unde tempora, inventore a in esse quo non. Facilis, iste fuga.
+          Dedicated web developer with creating custom websites through React and NodeJS. Proficient in HTML, CSS, JavaScript, also modern libraries and frameworks. Strong collaboration skills. I love to learn about new technologies and Programming Concepts.
           </p>
 
           <a href="#contact" className='btn btn-primary'>Let's Talk</a>

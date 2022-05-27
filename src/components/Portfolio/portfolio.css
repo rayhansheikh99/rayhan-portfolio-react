@@ -22,10 +22,29 @@
     transition: ease-in-out 8s;
     background-position: top;
 }
-.port-img {
-    background: url(../../assets/img1.png);
-    background-size: cover;
-    
+.cars-img {
+    background: url(../../assets/cars.png);
+    background-size: cover;  
+}
+.blog-img {
+    background: url(../../assets/blog.png);
+    background-size: cover;  
+}
+.fly-img {
+    background: url(../../assets/fly.png);
+    background-size: cover;  
+}
+.watch-img {
+    background: url(../../assets/watch.png);
+    background-size: cover;  
+}
+.hajj-img {
+    background: url(../../assets/hajj.png);
+    background-size: cover;  
+}
+.tm-img {
+    background: url(../../assets/tm.png);
+    background-size: cover;  
 }
 .portfolio-item-img:hover {
     background-position: bottom;
@@ -44,15 +63,16 @@
 /*====================MEDIA QUERIES (MEDIUM DEVICES) ===================*/
 @media screen and (max-width:1024px) {
     .portfolio-container {
-        grid-template-columns: 1fr 1fr;
+        grid-template-columns: 1fr;
         gap: 1.2rem;
     }
    }
   
    /*====================MEDIA QUERIES (SMALL DEVICES) ===================*/
    @media screen and (max-width:600px) {
-    .portfolio-container {
+    .container.portfolio-container {
         grid-template-columns: 1fr;
         gap: 1rem;
+        width: 96%;
     }
    }

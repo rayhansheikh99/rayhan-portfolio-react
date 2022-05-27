@@ -17,23 +17,23 @@ const Services = () => {
           <ul className="service-list">
             <li>
               <BiCheck className="service-list-icon"></BiCheck>
-              <p>Lorem ipsum dolor sit amet consectetur elit.</p>
+              <p>Fully Responsive Design</p>
             </li>
             <li>
               <BiCheck className="service-list-icon"></BiCheck>
-              <p>Lorem ipsum dolor sit amet consectetur elit.</p>
+              <p>User-Friendly Custom Design</p>
             </li>
             <li>
               <BiCheck className="service-list-icon"></BiCheck>
-              <p>Lorem ipsum dolor sit amet consectetur elit.</p>
+              <p>Slider Image Functionality </p>
             </li>
             <li>
               <BiCheck className="service-list-icon"></BiCheck>
-              <p>Lorem ipsum dolor sit amet consectetur elit.</p>
+              <p>Functional Contact Form</p>
             </li>
             <li>
               <BiCheck className="service-list-icon"></BiCheck>
-              <p>Lorem ipsum dolor sit amet consectetur elit.</p>
+              <p>E-Commerce Functionality</p>
             </li>
           </ul>
         </article>
@@ -47,27 +47,27 @@ const Services = () => {
           <ul className="service-list">
             <li>
               <BiCheck className="service-list-icon"></BiCheck>
-              <p>Lorem ipsum dolor sit amet consectetur elit.</p>
+              <p>Single Page Application in React js</p>
             </li>
             <li>
               <BiCheck className="service-list-icon"></BiCheck>
-              <p>Lorem ipsum dolor sit amet consectetur elit.</p>
+              <p>Real-time Web Apps in React</p>
             </li>
             <li>
               <BiCheck className="service-list-icon"></BiCheck>
-              <p>Lorem ipsum dolor sit amet consectetur elit.</p>
+              <p>E-commerce Website for Your Business</p>
             </li>
             <li>
               <BiCheck className="service-list-icon"></BiCheck>
-              <p>Lorem ipsum dolor sit amet consectetur elit.</p>
+              <p>Responsive Design for PC, Mobile, Tablet</p>
             </li>
             <li>
               <BiCheck className="service-list-icon"></BiCheck>
-              <p>Lorem ipsum dolor sit amet consectetur elit.</p>
+              <p>Remove Bugs from React Application</p>
             </li>
           </ul>
         </article>
-        {/* END OF WEB DEVELOPMENT  */}
+        {/* END OF FRONTEND DEVELOPMENT  */}
 
         <article className="service">
           <div className="service-head">
@@ -77,23 +77,23 @@ const Services = () => {
           <ul className="service-list">
             <li>
               <BiCheck className="service-list-icon"></BiCheck>
-              <p>Lorem ipsum dolor sit amet consectetur elit.</p>
+              <p>New API Development in Node.js</p>
             </li>
             <li>
               <BiCheck className="service-list-icon"></BiCheck>
-              <p>Lorem ipsum dolor sit amet consectetur elit.</p>
+              <p>Modification in Existing APIs</p>
             </li>
             <li>
               <BiCheck className="service-list-icon"></BiCheck>
-              <p>Lorem ipsum dolor sit amet consectetur elit.</p>
+              <p>I Use Express.js as a NodeJS Framework</p>
             </li>
             <li>
               <BiCheck className="service-list-icon"></BiCheck>
-              <p>Lorem ipsum dolor sit amet consectetur elit.</p>
+              <p> Create Database Using MongoDB</p>
             </li>
             <li>
               <BiCheck className="service-list-icon"></BiCheck>
-              <p>Lorem ipsum dolor sit amet consectetur elit.</p>
+              <p>Unlimited Revision Until You Are Satisfied.</p>
             </li>
           </ul>
         </article>
