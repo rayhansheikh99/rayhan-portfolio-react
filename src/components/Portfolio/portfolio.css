@@ -76,8 +76,8 @@
         width: 96%;
     }
    }
-   /* Extra large devices (large laptops and desktops, 1200px and up) */
-@media only screen and (min-width: 1180px) {
+   /* Extra large devices (large laptops and desktops, max 1370) */
+@media only screen and (max-width: 1370px) {
     .portfolio-container {
         width: 96%;
         height: 100vh;
