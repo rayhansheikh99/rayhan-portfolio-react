@@ -49,3 +49,10 @@
         width: var(--container-width-sm);
     }
    }
+
+   /*=============height 768 ===============*/
+   @media screen and (max-height: 768px) {
+    #testimonials {
+        margin-top: 20rem;
+    }
+  }

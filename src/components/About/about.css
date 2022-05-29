@@ -106,3 +106,10 @@
         margin: 1.5rem 0;
     }
    }
+
+   @media screen and (max-height: 768px) {
+    .about-me {
+       height: 320px;
+    }
+    
+  }

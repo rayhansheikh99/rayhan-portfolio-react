@@ -76,3 +76,15 @@ header {
         display: none;
     }
    }
+   @media screen and (max-height: 768px) {
+    header {
+        height: 100vh;
+        padding-top: 2rem;
+        overflow: hidden;
+    }
+    
+    .me {
+        margin-top: 2rem;
+        padding-top: 2rem;
+    }
+  }

@@ -17,7 +17,7 @@
 }
 
 .portfolio-item-img {
-    height: 350px;
+    height: 250px;
     border-radius: 1.5rem;
     transition: ease-in-out 8s;
     background-position: top;
@@ -76,3 +76,11 @@
         width: 96%;
     }
    }
+   /* Extra large devices (large laptops and desktops, 1200px and up) */
+@media only screen and (min-width: 1180px) {
+    .portfolio-container {
+        width: 96%;
+        height: 100vh;
+        
+    }
+}
